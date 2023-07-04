@@ -4,7 +4,7 @@
 npm install
 ```
 ## Uses
-Note: Create Problems file before starting.
+Note: Create a Problems file in the root folder before starting. Otherwise, you can get some errors.
 ```bash
 npm start
 ```
