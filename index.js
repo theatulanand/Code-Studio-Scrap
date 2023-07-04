@@ -11,7 +11,7 @@ async function scrapIt() {
             questionsSlug = [...questionsSlug, ...pageSlug]
         }
     } catch (error) {
-        
+        console.log("Error while getting questions slug ", error)
     }
 
     // Getting real problem statement
